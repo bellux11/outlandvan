@@ -1,0 +1,47 @@
+[
+  {
+    "id": "terra",
+    "name": "TERRA",
+    "number": "01",
+    "category": "Adventure",
+    "categoryLabel": "Avventura / Versatile",
+    "tag": "Proposta di gamma",
+    "description": "Il punto d’incontro tra comfort quotidiano e voglia di uscire dalle rotte più battute.",
+    "features": [
+      "Uso misto",
+      "Disposizione degli spazi flessibile",
+      "Viaggi lunghi"
+    ],
+    "image": "img/hero-van.webp"
+  },
+  {
+    "id": "ridge",
+    "name": "RIDGE",
+    "number": "02",
+    "category": "Expedition",
+    "categoryLabel": "Esplorazione / 4×4",
+    "tag": "Proposta di gamma",
+    "description": "Pensato per chi cerca autonomia, robustezza e un allestimento orientato all’esplorazione.",
+    "features": [
+      "Vocazione fuoristrada",
+      "Autonomia",
+      "Soluzioni tecniche"
+    ],
+    "image": "img/mountains.webp"
+  },
+  {
+    "id": "nomad",
+    "name": "NOMAD",
+    "number": "03",
+    "category": "Touring",
+    "categoryLabel": "Viaggio / Comfort",
+    "tag": "Proposta di gamma",
+    "description": "Un ambiente su ruote essenziale e raffinato, costruito attorno al modo in cui ami viaggiare.",
+    "features": [
+      "Comfort",
+      "Organizzazione",
+      "Personalizzazione"
+    ],
+    "image": "img/interior-material.webp"
+  }
+]
